@@ -1,0 +1,30 @@
+-Assault
+Hanamura
+Horizon Lunar Colony
+Temple of Anubis
+Volskaya Industries
+-Escort
+Dorado
+Gibraltar
+Junkertown
+Rialto
+Route 66
+-Hybrid
+Blizzard World
+Eichenwalde
+Hollywood
+Kings Row
+Numbani
+-Control
+Ilios
+Lijiang Tower
+Nepal
+Oasis
+-Arena
+Ayutthaya
+Black Forest
+Castillo
+Chateau Guillard
+Ecopoint Antarctica
+Necropolis
+EOF
