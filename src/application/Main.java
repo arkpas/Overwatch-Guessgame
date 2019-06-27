@@ -67,8 +67,8 @@ Label exit = menuLabel("Exit");
 menuList.getChildren().addAll(start,highscores,exit);
 menuBox.setLeft(menuList);
 
-Text copyrights = new Text("®2016 Blizzard Entertainment, Inc. All rights reserved. Overwatch is a trademark or registered trademark of Blizzard Entertainment, Inc. in the U.S. and/or other countries.");
-menuBox.setBottom(copyrights);
+Text copyrightsMenu = new Text("®2016 Blizzard Entertainment, Inc. All rights reserved. Overwatch is a trademark or registered trademark of Blizzard Entertainment, Inc. in the U.S. and/or other countries.");
+menuBox.setBottom(copyrightsMenu);
 
 BorderPane topPane = new BorderPane();
 topPane.setId("topBox");
@@ -140,7 +140,8 @@ Items maps = new Items();
 bottomBox.getChildren().addAll(heroesBox,mapsBox);
 VBox.setMargin(field, new Insets(5,0,5,0));
 
-root.getChildren().addAll(topPane,bottomBox, copyrights);
+Text copyrightsGame = new Text("®2016 Blizzard Entertainment, Inc. All rights reserved. Overwatch is a trademark or registered trademark of Blizzard Entertainment, Inc. in the U.S. and/or other countries.");
+root.getChildren().addAll(topPane,bottomBox, copyrightsGame);
 
 Scene menuScene = new Scene(menuBox,1280,780);
 Scene gameScene = new Scene(root,1280,780);
