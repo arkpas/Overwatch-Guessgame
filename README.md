@@ -4,8 +4,8 @@
 
 Do you like Overwatch? Do you think you know this game well? Test your knowledge! Overwatch Guessgame is going to test your memory - you have to type all Overwatch hero and map names in a limited time. Guess right and admire sweet visuals which you know from this popular Blizzard game!
 
-## Used technologies/frameworks/libraries
-Java 8, JavaFX
+## Used technologies/frameworks/libraries/languages
+Java 8, JavaFX, CSS
 
 ## Installation
 
